@@ -1,0 +1,10 @@
+body {
+  background-color: #000000;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  text-align: center;
+  vertical-align: center;
+}

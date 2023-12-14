@@ -1,0 +1,28 @@
+.friends {
+  width: 200px;
+  padding: 10px;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  justify-content: flex-end;
+}
+
+.friend {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.friend img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.friendInfo p {
+  margin: 0;
+}

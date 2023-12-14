@@ -1,0 +1,24 @@
+@media (min-width: 741px){
+  .sugestaoCard {
+    width: 300px;
+    margin-bottom: 10px;
+    }
+
+  .friendsContainer {
+    display: flex;
+    flex-direction: column;
+    margin-left: 300px;
+    }
+}  
+  @media (max-width: 740px) {
+    .sugestaoCard {
+      width: 300px;
+      margin-bottom: 10px;
+      }
+
+    .friendsContainer {
+      display: flex;
+      flex-direction: column;
+      margin-left: 30px;
+      }
+}
